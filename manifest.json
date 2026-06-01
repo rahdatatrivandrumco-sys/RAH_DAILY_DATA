@@ -1,11 +1,11 @@
 {
-    "name": "hello_mithun",
-    "short_name": "hello_mithun",
+    "name": "RAH DAILY DATA",
+    "short_name": "RAH DATA",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "RAH DAILY DATA - MONITORING AND REPORTING SYSTEM",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
